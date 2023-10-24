@@ -1,0 +1,14 @@
+# The ~/.config/systemd/user directory is the standard location for user units.
+
+[Unit]
+Description=Change the wallpaper on X display :0
+Wants=change-wallpaper.timer
+
+[Service]
+# Type=oneshot is standard practice for units that start short-running shell scripts. 
+Type=oneshot
+# Adjust path to script as needed
+ExecStart=/bin/sh /home/daniel/.config/scripts/change-wallpaper.sh
+
+[Install]
+WantedBy=graphical.target
