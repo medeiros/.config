@@ -21,7 +21,7 @@ function tmux_layout_mysite
 		tmux send-keys -t $session:$window1.1 "cd $window1path; git status" Enter
 
 		tmux new-window -a -t $session -n $window2
-		tmux send-keys -t $session:$window2 "cd ~; ls -lah" Enter
+		tmux send-keys -t $session:$window2 "cmatrix -s" Enter
 
 		tmux switch -t $session:$window1.0
 	else
