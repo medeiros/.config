@@ -8,3 +8,5 @@ pulse
 qutebrowser
 systemd/user/*.wants
 wallpapers
+
+fish/functions/p.fish
