@@ -1,4 +1,7 @@
 function bluetoothcmd
+    # install as below for this script to work:
+    # sudo pacman -S pulseaudio-bluetooth
+    
     set opt $argv[1]
 
     if [ "$opt" = "reload" ]
@@ -43,8 +46,10 @@ function _redirect_pa_to_wf1000xm3
 end
 
 function _redirect_pa_to_wh1000xm3
-    echo not implemented
-    return 127
+    # redirect publiseaudio to bluettooth headset
+    pactl set-default-source bluez_sink.38_18_4C_6C_47_26.a2dp_sink.monitor
+    pactl set-default-sink bluez_sink.38_18_4C_6C_47_26.a2dp_sink
+    echo done.
 end
 
 function _help_bluetoothctl
