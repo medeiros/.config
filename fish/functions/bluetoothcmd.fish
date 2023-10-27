@@ -1,24 +1,24 @@
 function bluetoothcmd
     set opt $argv[1]
 
-    if [ "$opt" = "1" ]
+    if [ "$opt" = "reload" ]
 	    _reload_pa_modules
-    else if [ "$opt" = "2" ]
+    else if [ "$opt" = "show" ]
 	    _show_current_bluetooth_sources
-    else if [ "$opt" = "3" ] 
+    else if [ "$opt" = "wf" ] 
 	    _redirect_pa_to_wf1000xm3
-    else if [ "$opt" = "4" ] 
+    else if [ "$opt" = "wh" ] 
 	    _redirect_pa_to_wh1000xm3
-    else if [ "$opt" = "5" ]
+    else if [ "$opt" = "help" ]
 	    _help_bluetoothctl
     else 
         echo "no valid param informed." 
 	echo "  options: "
-	echo "    1 - unload/load pulse audio modules"
-	echo "    2 - show current bluetooth sources"
-	echo "    3 - set default source/sink to WF-1000XM3"
-	echo "    4 - set default source/sink to WH-1000XM3"
-	echo "    5 - show help for connect with bluetoothctl"
+	echo "    show...: show current bluetooth sources"
+	echo "    reload.: unload/load pulse audio modules"
+	echo "    wf.....: set default source/sink to WF-1000XM3"
+	echo "    wh.....: set default source/sink to WH-1000XM3"
+	echo "    help...: show help for connect with bluetoothctl"
     end
 end
 
@@ -39,6 +39,7 @@ function _redirect_pa_to_wf1000xm3
     # redirect publiseaudio to bluettooth headset
     pactl set-default-source bluez_sink.14_3F_A6_DD_47_8C.a2dp_sink.monitor
     pactl set-default-sink bluez_sink.14_3F_A6_DD_47_8C.a2dp_sink
+    echo done.
 end
 
 function _redirect_pa_to_wh1000xm3
@@ -56,7 +57,7 @@ function _help_bluetoothctl
     echo '> devices (must find headset; scan on/off otherwise)'
     echo 'first time:'
     echo ' > scan on (wait for device to show)'
-    echo ' > pair <mac addr>'
+    echo ' > pair <mac addr> (make sure to enter pairing mode in the device)'
     echo ' > trust <mac addr>'
     echo ' > connect <mac addr>' 
     echo ' '
