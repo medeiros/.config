@@ -7,8 +7,6 @@ function kb_map
         _apply br abnt2
     else
         echo "invalid param. options: us|br"
-	echo "-"
-	setxkbmap -print -verbose 10
     end
 end
 
