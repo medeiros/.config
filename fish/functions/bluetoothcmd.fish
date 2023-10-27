@@ -34,8 +34,16 @@ function _reload_pa_modules
 end
 
 function _show_current_bluetooth_sources
-    echo (pacmd list-sources | grep -e 'index:' -e device.string -e 'name:' -e \
+    set sources (pacmd list-sources | grep -e 'index:' -e device.string -e 'name:' -e \
 	    'available' | grep -i bluez -C1)
+ 
+    echo $sources
+
+    if test -n (echo $sources) && test -z (echo $sources | grep '* index')
+	echo " "
+        echo "WARNING: Bluetooth source found but not defined as default. "
+	echo "Execute with params 'wf' or 'wh' to apply."
+    end
 end
 
 function _redirect_pa_to_wf1000xm3
