@@ -1,0 +1,91 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="ActivateBookmarksToolWindow">
+      <i c="1" l="1699302677101" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="1" l="1699302683132" />
+    </e>
+    <e n="Annotate">
+      <i c="6" l="1699301829814" />
+    </e>
+    <e n="CallSaul">
+      <i c="1" l="1699302949399" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="2" l="1699302951905" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="9" l="1699302544475" />
+    </e>
+    <e n="EditorCopy">
+      <i c="5" l="1699302796196" />
+    </e>
+    <e n="EditorEnter">
+      <i c="2" l="1699302764444" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1699302763912" />
+    </e>
+    <e n="Exit">
+      <i c="2" l="1699302980518" />
+    </e>
+    <e n="FindInPath">
+      <i c="2" l="1699301808303" />
+    </e>
+    <e n="Maven.ExecuteGoal">
+      <i c="1" l="1699301262035" />
+    </e>
+    <e n="Maven.RunBuild">
+      <i c="5" l="1699302766997" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1699301215790" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1699302765649" />
+    </e>
+    <e n="ShowSettings">
+      <i c="6" l="1699302540430" />
+    </e>
+    <e n="TabList">
+      <i c="1" l="1699302479526" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1699301085704" />
+    </e>
+    <e n="com.intellij.build.BuildTreeConsoleView$ConsoleViewHandler$2">
+      <i c="1" l="1699301775412" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="1" l="1699301798503" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1699301178027" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1699301197190" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="21" l="1699302964041" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="7" l="1699302979538" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="3" l="1699302681642" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1699301620706" />
+    </e>
+    <e n="context.save">
+      <i c="1" l="1699301313860" />
+    </e>
+    <e n="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction">
+      <i c="1" l="1699301157036" />
+    </e>
+    <e n="org.jetbrains.idea.maven.importing.workspaceModel.NotifyUserAboutWorkspaceImportTask$perform$showNotification$1$1">
+      <i c="1" l="1699301189880" />
+    </e>
+  </component>
+</application>

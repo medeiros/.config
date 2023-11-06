@@ -1,0 +1,32 @@
+#History lists
+
+[image_list]
+"/home/daniel/data/data/backup-cell/iphone12/1000000026.png"
+
+[shortcuts]
+"Diretório inicial[path]/home/daniel"
+"Área de trabalho[path]/home/daniel/Desktop"
+"Coleções[path]/home/daniel/.local/share/geeqie/collections"
+"iphone12[path]/home/daniel/data/data/backup-cell/iphone12"
+
+[path_list]
+"/home/daniel/data"
+"/home/daniel/data/data"
+"/home/daniel/data/data/backup-cell"
+"/home/daniel"
+"/home/daniel/.local/share/geeqie/collections"
+"/home/daniel/data/data/backup-cell/iphone12"
+
+[bookmarks]
+".[path]/home/daniel/data/data/backup-cell/iphone12"
+"Diretório inicial[path]/home/daniel"
+"Área de trabalho[path]/home/daniel/Desktop"
+"Coleções[path]/home/daniel/.local/share/geeqie/collections"
+
+[sort_manager]
+".[path]/home/daniel/data/data/backup-cell/iphone12"
+"Diretório inicial[path]/home/daniel"
+"Área de trabalho[path]/home/daniel/Desktop"
+"Coleções[path]/home/daniel/.local/share/geeqie/collections"
+
+#end

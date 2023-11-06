@@ -9,4 +9,6 @@ qutebrowser
 systemd/user/*.wants
 wallpapers
 
+maven/repository
+
 fish/functions/p.fish
