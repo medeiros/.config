@@ -8,6 +8,7 @@ pulse
 qutebrowser
 systemd/user/*.wants
 wallpapers
+GIMP
 
 maven/repository
 
