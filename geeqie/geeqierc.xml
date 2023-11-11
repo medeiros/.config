@@ -256,6 +256,7 @@
             <file_type key = "mkv" enabled = "false" extensions = ".mkv;.webm" description = "Matroska video file" file_class = "4" writable = "false" allow_sidecar = "false" />
             <file_type key = "wmv" enabled = "false" extensions = ".wmv;.asf" description = "Windows Media Video file" file_class = "4" writable = "false" allow_sidecar = "false" />
             <file_type key = "flv" enabled = "false" extensions = ".flv" description = "Flash Video file" file_class = "4" writable = "false" allow_sidecar = "false" />
+            <file_type key = "wmf" enabled = "true" extensions = ".wmf;.apm" description = "Windows Metafile" file_class = "1" writable = "true" allow_sidecar = "false" />
         </filter>
 
         <marks_tooltips>
@@ -379,10 +380,10 @@
         home_path = "" 
         startup_path = "0" 
 
-        main_window.x = "0" 
-        main_window.y = "42" 
+        main_window.x = "1920" 
+        main_window.y = "0" 
         main_window.w = "1916" 
-        main_window.h = "1020" 
+        main_window.h = "1062" 
         main_window.maximized = "false" 
         main_window.hdivider_pos = "948" 
         main_window.vdivider_pos = "290" 
