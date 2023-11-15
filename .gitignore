@@ -15,3 +15,5 @@ maven/repository
 geeqie/geeqierc.xml
 geeqie/history
 gtk-2.0/gtkfilechooser.ini  
+
+**/nohup.out
