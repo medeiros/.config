@@ -106,7 +106,7 @@
             thumbnails.use_color_management = "false" 
             thumbnails.use_ft_metadata = "true" 
             thumbnails.collection_preview = "20" 
-            file_sort.method = "1" 
+            file_sort.method = "3" 
             file_sort.ascending = "true" 
             file_sort.case_sensitive = "false" 
             file_sort.natural = "false" 

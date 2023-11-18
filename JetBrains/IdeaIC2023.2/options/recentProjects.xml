@@ -4,8 +4,8 @@
       <map>
         <entry key="$USER_HOME$/data/code/opensource/kafka-connect-covid19api">
           <value>
-            <RecentProjectMetaInfo frameTitle="kafka-connect-covid19api – Covid19SourceConnector.java" opened="true" projectWorkspaceId="1dqnLXhSIEePPWxKre99PgQkfKb">
-              <option name="activationTimestamp" value="1699302954572" />
+            <RecentProjectMetaInfo frameTitle="kafka-connect-covid19api – Covid19SourceConnector.java" projectWorkspaceId="1dqnLXhSIEePPWxKre99PgQkfKb">
+              <option name="activationTimestamp" value="1700241708521" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-232.10203.10" />
               <option name="buildTimestamp" value="1698573447743" />
@@ -18,8 +18,57 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/data/code/learn/java-numerology/java-numeroloy">
+          <value>
+            <RecentProjectMetaInfo frameTitle="java-numeroloy – ~/data/code/learn/java-numerology/java-numeroloy/src/main/java/org/example/Main.java" projectWorkspaceId="2YJRf8ID6JW67V5jFQ83ltK3X4B">
+              <option name="activationTimestamp" value="1700241819547" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10203.10" />
+              <option name="buildTimestamp" value="1698573446224" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1700241795249" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/code/learn/java-numerology">
+          <value>
+            <RecentProjectMetaInfo frameTitle="java-numerology – pom.xml (java-numerology)" projectWorkspaceId="2YJRl9BTJqTYBf81nBf1Spv16uy">
+              <option name="activationTimestamp" value="1700241889016" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10203.10" />
+              <option name="buildTimestamp" value="1698573446224" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1700241843676" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/code/learn/clojure-numerology">
+          <value>
+            <RecentProjectMetaInfo frameTitle="clojure-numerology – a.c.numerology_test" opened="true" projectWorkspaceId="2YJSO0QRDarqH1OYbgLEZKUFen4">
+              <option name="activationTimestamp" value="1700258167673" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10203.10" />
+              <option name="buildTimestamp" value="1698573466295" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="1920" y="0" width="1920" height="1080" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1700242190077" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/data/code/opensource/kafka-connect-covid19api" />
+    <option name="lastOpenedProject" value="$USER_HOME$/data/code/learn/clojure-numerology" />
+    <option name="lastProjectLocation" value="$USER_HOME$/data/code/learn" />
   </component>
 </application>

@@ -2,6 +2,11 @@
 
 [image_list]
 "/home/daniel/data/data/backup-cell/iphone12/1000000026.png"
+"/home/daniel/Dropbox/comprovantes/Comprovante_20231115T162444938366.png"
+"/home/daniel/data/app/ideaIC-2023.1.2.tar.gz"
+"/home/daniel/data/lib/images/women/0f220a9b-8602-42e1-85c2-767549ad632c-original.jpeg"
+"/home/daniel/data/lib/images/078d16509bf1ce60db42bc6df0fdfc0f.jpg"
+"/home/daniel/data/lib/images/daniel/010c0897-d17a-4334-a800-6546a215f66e.jpeg"
 
 [shortcuts]
 "Diretório inicial[path]/home/daniel"
@@ -10,12 +15,16 @@
 "iphone12[path]/home/daniel/data/data/backup-cell/iphone12"
 
 [path_list]
-"/home/daniel/data"
 "/home/daniel/data/data"
-"/home/daniel/data/data/backup-cell"
+"/home/daniel/Dropbox"
+"/home/daniel/Dropbox/comprovantes"
+"/home/daniel/data/app"
+"/home/daniel/data/lib/images/women"
 "/home/daniel"
-"/home/daniel/.local/share/geeqie/collections"
-"/home/daniel/data/data/backup-cell/iphone12"
+"/home/daniel/data"
+"/home/daniel/data/lib"
+"/home/daniel/data/lib/images"
+"/home/daniel/data/lib/images/daniel"
 
 [bookmarks]
 ".[path]/home/daniel/data/data/backup-cell/iphone12"

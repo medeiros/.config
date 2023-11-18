@@ -5,28 +5,45 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
-    "MarketplacePluginsSearchHistory": "/suggested",
+    "InstalledPluginsSearchHistory": "cursive",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "LayoutCode.optimizeImports": "false",
+    "MarketplacePluginsSearchHistory": "cursive\n/suggested",
+    "NewProjectWizard.groupIdState": "org.example",
+    "NextRunPlatformUpdateBuild": "IC-232.10227.8",
+    "NextRunPlatformUpdateVersion": "2023.2.5",
     "NonModalCommitCustomization.IsApplied": "true",
-    "SettingsSearchHistory": "line break\nline\nmaven",
-    "appcds.runOnSecondStart": "IC-232.10203.10-c611dba32365fc1b8befd956c895bb6f1eeae25c3a5982a6e78a25c91290d547",
+    "PluginConfigurable.selectionTab": "1",
+    "SettingsSearchHistory": "cursive\nline break\nline\nmaven",
+    "appcds.runOnSecondStart": "IC-232.10203.10-e30c8d7fea7137b0c0390dc745b1a97a9bdaaa55d7e90a0f1c8dd7a4a845d2f0",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "IC-232.10203.10",
+    "clojure.test.Splitter.Proportion": "0.2295529",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Maven",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "cursive.eap.updates.asked": "true",
+    "cursive.evaluation.timestamp": "1700242190502",
+    "defaultJdkConfigured": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10203.10",
-    "file.gist.reindex.count": "26",
+    "file.gist.reindex.count": "32",
     "fileTypeChangedCounter": "2",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "12.0",
     "gotit.previous.run": "IC-232.10203.10",
     "ide.memory.adjusted": "true",
     "installed.kotlin.plugin.version": "232-1.9.0-release-358-IJ10203.10",
-    "last_opened_file_path": "/home/daniel/.config/maven/repository",
+    "java.module.default.source.root": "src",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/home/daniel/data/code/learn/java-numerology",
     "migrate.android.sdk.path.to.roamable.storage": "false",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-module",
+    "project.wizard.template": "Bare project",
     "registry.to.advanced.settings.migration.build": "IC-232.10203.10",
     "selected.color.option.type": "BASH.LINE_COMMENT",
     "settings.code.style.selected.tab.EditorConfig": "Wrapping and Braces",
@@ -35,6 +52,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/daniel/data/code/learn/java-numerology",
       "/home/daniel/.config/maven/repository",
       "/home/daniel/data/code/opensource/kafka-connect-covid19api"
     ],
@@ -46,15 +64,15 @@
     ]
   }
 }]]></component>
-  <component name="ShownTips"><![CDATA[{
-  "shownTips": {
-    "ShowUsages": 1699302447722
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;ShowUsages&quot;: 1699302447722
   },
-  "proposedTips": {
-    "ShowUsages": 1699302447002
+  &quot;proposedTips&quot;: {
+    &quot;ShowUsages&quot;: 1699302447002
   },
-  "tipsOrderSeed": 1699302446915
-}]]></component>
+  &quot;tipsOrderSeed&quot;: 1699302446915
+}</component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
       <command-history-file filename="kafka-connect-covid19api-history" project-path="$USER_HOME$/data/code/opensource/kafka-connect-covid19api" last-access-time="1699302695198" />

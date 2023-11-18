@@ -2,6 +2,9 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/data/code/learn/clojure-numerology" value="true" />
+        <entry key="$USER_HOME$/data/code/learn/java-numerology" value="true" />
+        <entry key="$USER_HOME$/data/code/learn/java-numerology/java-numeroloy" value="true" />
         <entry key="$USER_HOME$/data/code/opensource/kafka-connect-covid19api" value="true" />
       </map>
     </option>
